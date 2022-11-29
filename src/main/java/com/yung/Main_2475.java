@@ -8,7 +8,7 @@ import java.util.Scanner;
 각 숫자를 제곱한 수들의 합 0+16+4+25+36 = 81 을 10으로 나눈 나머지인 1이 검증수
 */
 
-public class Main {
+public class Main_2475 {
   public static void main(String[] args){
     Scanner sc  = new Scanner(System.in);
     // 고유번호 5자리를 받을 배열
