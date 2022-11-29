@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 단, 한 단어가 여러 번 등장하면 등장한 횟수만큼 모두 세어야 한다.
 */
 
-public class Main {
+public class Main_1152 {
   public static void main(String[] args){
     Scanner sc  = new Scanner(System.in);
     String input = sc.nextLine();
