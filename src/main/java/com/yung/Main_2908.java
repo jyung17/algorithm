@@ -8,7 +8,7 @@ import java.util.Scanner;
 따라서, 상수는 두 수중 큰 수인 437을 큰 수이다.
 */
 
-public class Main {
+public class Main_2908 {
   public static void main(String[] args){
     Scanner sc  = new Scanner(System.in);
     int a = sc.nextInt();
