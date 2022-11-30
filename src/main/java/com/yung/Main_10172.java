@@ -1,7 +1,5 @@
 package com.yung;
 
-import java.util.Scanner;
-
 /*
 |\_/|
 |q p|   /}
@@ -10,7 +8,7 @@ import java.util.Scanner;
 ||_/=\\__|
 */
 
-public class Main {
+public class Main_10172 {
   public static void main(String[] args){
     System.out.println("|\\_/|");
     System.out.println("|q p|   /}");
