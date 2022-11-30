@@ -1,7 +1,5 @@
 package com.yung;
 
-import java.util.Scanner;
-
 /*
 \    /\
  )  ( ')
@@ -9,7 +7,7 @@ import java.util.Scanner;
  \(__)|
 */
 
-public class Main {
+public class Main_10171 {
   public static void main(String[] args){
     System.out.println("\\    /\\");
     System.out.println(" )  ( ')");
