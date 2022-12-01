@@ -16,7 +16,7 @@ package com.yung;
 
 import java.util.Scanner;
 
-public class Main {
+public class Main_10250 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int t = scanner.nextInt();
