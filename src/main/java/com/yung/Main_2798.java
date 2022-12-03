@@ -7,7 +7,7 @@ package com.yung;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Main {
+public class Main_2798 {
   public static void main(String[] args) throws IOException {
     Scanner scanner = new Scanner(System.in);
     int n = scanner.nextInt();
@@ -15,7 +15,7 @@ public class Main {
     int[] value = new int[n];
     int sum = 0;
     int result = 0;
-  
+    
     for (int i = 0; i < n; i++) {
       value[i] = scanner.nextInt();
     }
