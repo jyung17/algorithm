@@ -1,4 +1,4 @@
-package com.yung;
+package com.yung.beakjoon;
 
 /*
 한수는 지금 (x, y)에 있다.

@@ -1,4 +1,4 @@
-package com.yung;
+package com.yung.beakjoon;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.yung;
+package com.yung.beakjoon;
 
 /*
 과거 이집트인들은 각 변들의 길이가 3, 4, 5인 삼각형이 직각 삼각형인것을 알아냈다.
