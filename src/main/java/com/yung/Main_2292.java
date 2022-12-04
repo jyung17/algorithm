@@ -7,7 +7,7 @@ package com.yung;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Main {
+public class Main_2292 {
   public static void main(String[] args) throws IOException {
    Scanner scanner = new Scanner(System.in);
    
