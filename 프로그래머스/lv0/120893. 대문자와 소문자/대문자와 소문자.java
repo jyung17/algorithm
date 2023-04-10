@@ -1,11 +1,11 @@
+import java.util.Arrays;
+import java.util.stream.Collectors;
+
 class Solution {
     public String solution(String my_string) {
-        String answer = "";
-        String[] split = my_string.split("");
-        for (int i = 0; i < split.length; i++) {
-          answer += split[i].charAt(0) > 96 ? split[i].toUpperCase() : split[i].toLowerCase();
-        }
-
-        return answer;
+        return Arrays.asList(my_string.split("")).stream()
+        .map(s -> s.charAt(0) > 96 ? s.toUpperCase() : s.toLowerCase())
+        .collect(
+            Collectors.joining());
     }
 }
